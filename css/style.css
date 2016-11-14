@@ -1,7 +1,8 @@
 body {
 	width: 100%;
+	font-family:'Arial' }
+
 	
-}
 /*-----------------------------------HEADER LOGO AND BROWSER*/
 .logo {
 	margin: 0 80px;
@@ -15,15 +16,10 @@ body {
 	font-size: 14px;
 	left: 200px;
 	top: 40px; }
-
-.buscador p{
-	border: 1px solid gray;
-	width: 200px;
-	top:15px; 
-	height: 40px;
+.buscador {
 	position: relative;
-	left: 600px;
-	padding: 9px;
+	left: 380px;
+	top: 40px;
 	}
 /*---------------------------------------------BANNER*/
 .banner {
@@ -33,13 +29,24 @@ body {
 .big-hero {
 	float: right;
 	position: relative;
-	left: 800px;
+	left: 780px;
 	bottom: 480px;
 	color: #D3D3D3; }
+td {
+	position: relative;
+	left: 40px;
+}
+.All-Age  {
+	color: green;
+	background: rgba(0, 0, 0, 0);
+	border: 1px solid green;
+	border-radius: 8px;
+	width: 60px;
+}
 .buttons1 a {
 	color: white;
 	text-decoration: none;
-	font-size: 18px;
+	font-size: 19px;
 }
 .ticket, .watch {
 	border-radius: 3px;
@@ -121,13 +128,13 @@ body {
 	background-color: #BB7B33;
 	width: 180px;
 	height: 60px;
-	border-radius: 4px; }
-.book a {
-	color: white;
+	border-radius: 4px;
+	color: white; }
+.book span {
 	text-decoration: none;
 	vertical-align: middle;
 	padding-left: 15px;
-	padding-top: 18px; }
+	padding-top: 15px; }
 /*---------------------------------------SECTION : VIDEOS LIST 2*/
 .nav-section li {
 	list-style: none;  }
