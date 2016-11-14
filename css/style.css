@@ -1,0 +1,163 @@
+body {
+	width: 100%;
+	
+}
+/*-----------------------------------HEADER LOGO AND BROWSER*/
+.logo {
+	margin: 0 80px;
+	height: 100px;
+}
+.theater, .buscador {
+	display: inline;
+	position: relative;}
+
+.theater {
+	font-size: 14px;
+	left: 200px;
+	top: 40px; }
+
+.buscador p{
+	border: 1px solid gray;
+	width: 200px;
+	top:15px; 
+	height: 40px;
+	position: relative;
+	left: 600px;
+	padding: 9px;
+	}
+/*---------------------------------------------BANNER*/
+.banner {
+	height: 500px;
+	width: 100%; }
+
+.big-hero {
+	float: right;
+	position: relative;
+	left: 800px;
+	bottom: 480px;
+	color: #D3D3D3; }
+.buttons1 a {
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+}
+.ticket, .watch {
+	border-radius: 3px;
+	background: red;
+	width: 150px;
+	height: 50px;
+	vertical-align: middle;
+	padding-left: 15px;
+	padding-top: 13px; }
+
+.ticket {
+	background-color: #DFB636; }
+.watch {
+	background-color: #BB7B33; }
+/*------------------------------------SECTION : VIDEOS LIST*/
+.container3 {
+	background-color: #DFB636;
+	position: relative;
+	bottom: 426px;
+	vertical-align: middle; }
+
+.nav-section li {
+	list-style: none;  }
+
+.lista1 {
+	padding: 0 25px;
+	position: relative;
+	top: 8px; }
+
+ .uno{
+	width: 100%;
+	height: 290px;
+	margin-left: 0;
+	margin-bottom: 20px;
+	padding: 15px 1px;
+	position: relative;
+    vertical-align: middle;}
+/*--------------------------------------SECTION : VIDEO IMG */
+.video {
+	position: relative;
+	bottom: 426px; }
+
+.video-img {
+	width: 100%;
+	height: 600px; }
+
+.black {
+	background-color: black;
+	width: 100%;
+	height: 40px;
+	position: relative;
+	bottom: 470px; }
+/*---------------------------------------SECTION :TICKET - NEWS*/
+.container4 {
+	position: relative;
+	width: 100%;
+	height: 600px;
+	}
+.center {
+	margin: 0 50px;
+}
+.Buy-Ticket {
+	position: relative;
+	bottom: 400px;
+	font-size: 30px; }
+
+.News {
+	position: relative;
+	bottom: 680px;
+	left: 630px;
+	font-size: 20px; }
+.more{
+	color: #DEB843;
+}
+.gray {
+	color: gray; }
+
+.book {
+	background-color: #BB7B33;
+	width: 180px;
+	height: 60px;
+	border-radius: 4px; }
+.book a {
+	color: white;
+	text-decoration: none;
+	vertical-align: middle;
+	padding-left: 15px;
+	padding-top: 18px; }
+/*---------------------------------------SECTION : VIDEOS LIST 2*/
+.nav-section li {
+	list-style: none;  }
+
+.lista2 {
+	padding: 0 45px;
+	position: relative;
+	bottom: 600px;
+	display: inline-block; }
+
+ .dos{
+	width: 100%;
+	height: 380px;
+	margin-left: 0;
+	margin-bottom: 20px;
+	padding: 15px 1px;
+	position: relative;
+    vertical-align: middle;}
+/*-------------------------------------------------FOOTER*/
+.Disclaimer {
+	background-color: #F3F3F3;
+	color: #BDBDBD;
+	position: relative;
+	bottom: 520px;
+	height: 400px;
+}
+.contenedor, .detalles {
+	background-color: #F3F3F3;
+	padding: 20px;
+	font-size: 21px;
+}
+
+
